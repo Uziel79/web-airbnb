@@ -18,7 +18,7 @@ import Property from "../Property";
 import { Container, ButtonContainer, PointReference } from "./styles";
 
 const TOKEN =
-  "pk.eyJ1IjoiaGlnb3JvY2tldCIsImEiOiJjamlrdWJuY3gyaHYxM3Bvbmg0cGRwY3R0In0._TdjX9rYrjZ6Q6FFXOGwsQ";
+  "pk.eyJ1IjoidXppZWw3OSIsImEiOiJjanJiNTc4dXEweXdlM3ltbTJldXQ4b3J0In0.1mw3L3nSn81ULLYw5YbogA";
 
 class Map extends Component {
   static propTypes = {

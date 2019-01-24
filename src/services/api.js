@@ -2,7 +2,7 @@ import axios from "axios";
 import { getToken } from "./auth";
 
 const api = axios.create({
-  baseURL: "http://157.230.182.91:3001"
+  baseURL: "https://api-airbnb-thiago.herokuapp.com/"
 });
 
 api.interceptors.request.use(async config => {
